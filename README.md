@@ -1,2 +1,2 @@
 # deep_learning_sprint
-For my first deep learning models
+Trying out deep learning using PyTorch and FastAI
